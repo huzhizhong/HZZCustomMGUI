@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  HZZCustomMGUI
+//
+//  Created by tgjr-Hzz on 2017/6/12.
+//  Copyright © 2017年 Hzz. All rights reserved.
+//
+
+
+
+//#ifndef PrefixHeader_h
+//#define PrefixHeader_h
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "HZZDefineController.h"
+
+//#endif /* PrefixHeader_h */
+
