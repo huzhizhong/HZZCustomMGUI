@@ -10,4 +10,7 @@
 
 @interface MovieFirstViewController : UIViewController
 
+// tablev的头视图
+@property (nonatomic, strong) UIView *headerView;
+
 @end
